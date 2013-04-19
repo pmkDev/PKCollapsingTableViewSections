@@ -56,9 +56,9 @@
         NSArray *array3     = [NSArray arrayWithObjects:@"banane", @"auto2", @"haus", @"eidechse", nil];
         [sectionContentDict setValue:array3 forKey:[sectionTitleArray objectAtIndex:2]];
         NSArray *array4     = [NSArray arrayWithObjects:@"hoden", @"pute", @"eimer", @"wichtel", @"karl", @"dreirad", nil];
-        [sectionContentDict setValue:array3 forKey:[sectionTitleArray objectAtIndex:3]];
+        [sectionContentDict setValue:array4 forKey:[sectionTitleArray objectAtIndex:3]];
         NSArray *array5     = [NSArray arrayWithObjects:@"Ei", @"kanone", nil];
-        [sectionContentDict setValue:array4 forKey:[sectionTitleArray objectAtIndex:4]];
+        [sectionContentDict setValue:array5 forKey:[sectionTitleArray objectAtIndex:4]];
     }
 }
 
